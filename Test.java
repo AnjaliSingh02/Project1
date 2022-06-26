@@ -1,3 +1,6 @@
+/*This program will show demo*/
+
+
 interface A{
     public void method1();
 }
@@ -21,3 +24,4 @@ public class Test extends Two{
     }
     
 }
+
